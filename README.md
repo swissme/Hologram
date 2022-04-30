@@ -11,7 +11,7 @@ Solution #1 -
 Solution #2 -  
 &nbsp;&nbsp;&nbsp;&nbsp;Step #1 | Download the java file and paste them wherever you would like.
     
-Usage: 
-`Hologram hologram = new Hologram(Random UUID, Location);`
-`hologram.addLine(String);`
+Usage:   
+`Hologram hologram = new Hologram(Random UUID, Location);`    
+`hologram.addLine(String);`    
 `hologram.delete();`
